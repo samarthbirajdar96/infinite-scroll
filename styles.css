@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+#image-container{
+    margin: 10px 30%;
+}
+
+#image-container img{
+    margin-top: 5px;
+    width: 100%;
+}
+
